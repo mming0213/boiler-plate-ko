@@ -1,0 +1,19 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ming",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^3.4.4",
+    "mongoose": "^6.8.3"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
